@@ -7,10 +7,9 @@ A sleek, modern, and user-friendly desktop application built entirely in **Java*
 ## ✨ Features
 
 * **🔒 Secure User Authentication**: Custom Sign-In and Sign-Up screens with a secure password field and welcoming pop-up dialogue alerts (`JOptionPane`) upon successful login.
-* ![Uploading image.png…]()
-* ![Uploading image.png…]()
-
-
+* <img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/03effacd-16d8-4dd6-9dc6-1d8bea26f1b5" />
+* <img width="958" height="563" alt="image" src="https://github.com/user-attachments/assets/4831ba8e-1ca7-498c-ba33-f723f1cde3d2" />
+<br>
 * **📊 Modern Navigation Dashboard**: A centralized hub featuring clean button controls to easily browse rooms, view reservation details, cancel bookings, or process refunds.
 * **🛌 Dynamic Room Search & Booking**: 
     * Real-time tracking of room availability status (e.g., *Available*, *Booked*).
