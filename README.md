@@ -1,4 +1,4 @@
-<img width="1919" height="1095" alt="image" src="https://github.com/user-attachments/assets/eb5d3a73-aef0-4242-a9b1-bdec21c664eb" /><img width="1919" height="1095" alt="image" src="https://github.com/user-attachments/assets/d6d7c2f4-18fa-416f-baa6-791d4022868f" />
+
 # 🏨 Hotel Reservation System
 
 A sleek, modern, and user-friendly desktop application built entirely in **Java** using **Swing** and **AWT** to streamline hotel room bookings and reservation management. The application features a custom-designed, dark-themed GUI (Graphical User Interface) that provides a smooth and intuitive experience for both guests and hotel administrators.A Java Swing desktop application for hotel bookings. <br>
@@ -7,6 +7,10 @@ A sleek, modern, and user-friendly desktop application built entirely in **Java*
 ## ✨ Features
 
 * **🔒 Secure User Authentication**: Custom Sign-In and Sign-Up screens with a secure password field and welcoming pop-up dialogue alerts (`JOptionPane`) upon successful login.
+* ![Uploading image.png…]()
+* ![Uploading image.png…]()
+
+
 * **📊 Modern Navigation Dashboard**: A centralized hub featuring clean button controls to easily browse rooms, view reservation details, cancel bookings, or process refunds.
 * **🛌 Dynamic Room Search & Booking**: 
     * Real-time tracking of room availability status (e.g., *Available*, *Booked*).
