@@ -46,3 +46,11 @@ src/
 ├── model/           # Data models (User, Room, Reservation classes)
 ├── view/            # Swing GUI frames and panels (Login, Dashboard, Booking, etc.)
 └── database/        # Database connectivity and helper files
+<br>
+<p align="center">
+  <b>Sole Developer:</b><br />
+  Developed individually as part of the <b>CodeAlpha Internship</b> program.
+</p>
+
+---
+
